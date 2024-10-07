@@ -26,7 +26,11 @@ Run the Project: Depending on the project setup, you may need to install depende
 
 ## Project setup
 ```
-npm install
+npm install 
+```
+
+```
+This will helps you to downlaod all the dependencies 
 ```
 
 ### Compiles and hot-reloads for development
